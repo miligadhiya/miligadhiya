@@ -1,3 +1,4 @@
+<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
 # 💫 About Me:
 i am a developer<br>i love typeing code
 
